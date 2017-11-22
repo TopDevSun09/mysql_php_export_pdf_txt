@@ -11,7 +11,7 @@ A boilerplate for PHP project that includes connection to a MYSQL Database, FPDF
 Clone the repository::
 
 ```bash
-git clone https://github.com/scedar/django_boilerplate.git
+git clone https://github.com/scedar/mysql_php_export_pdf_txt.git
 ```
 
 - Create a database called *_pdfexport_*
